@@ -7,7 +7,7 @@
 
 ### REFINAMENTO DO MODELO RELACIONAL
 
-Foram realizadas as alterações no modelo relacional para que o mesmo ficasse com os mesmos atributos do banco de dados.
+Foram realizadas as alterações no esquema conceitual para que o mesmo refletisse o modelo relacional.
 
 Foi criada uma tabela "payment", onde ela recebe um atributo "idPayment" e um atributo "typePayment", que recebem os dados de pagamento do pedido, independente da forma escolhida pelo cliente.
 
